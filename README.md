@@ -1,5 +1,4 @@
-Midterm-Data-Project
-====================
+
 
    This project was created in 9 hours during a hackathon. Team members -- Rafayel Mkrtchyan, Nick Rose and Vishnu Murthy.
 
